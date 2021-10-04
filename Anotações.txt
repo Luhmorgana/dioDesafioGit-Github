@@ -1,0 +1,35 @@
+# Comandos básicos no terminal
+
+## cd: navega nos diretórios
+## cd..:Volta uma pasta
+## dir: expõe os diretórios
+## mkdir: cria um novo diretório
+## del: apaga arquivos do diretório
+# rmdir: remove diretório
+
+# Comandos no Git
+
+## git init
+## git add
+## git commit
+## git clone
+## git clone
+## git status
+## git push origin master
+## git pull origin master
+## git remote add
+
+
+# Passos fundamentais no Git
+
+## WORKING DIRECTORY ->  STAGE AREA ->  LOCAL REPOSITORY <-> REMOTE REPOSITORY
+
+## sequencia de comandos para adicionar e alterar o git do local para o remoto:
+
+## git add . -> git status -> git commit - m "comentário sobre o commit" -> git push origin main 
+
+
+
+usuario: Luhmorgana
+
+tolken: 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

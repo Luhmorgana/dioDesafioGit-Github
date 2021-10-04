@@ -1,0 +1,13 @@
+//Este é um resumo de forma simplificada de como adicionar um arquivo local
+para um repositório remoto (Git=>GitHub)
+
+	1) git clone https://        (Code gerado no gitHub)
+	2) git nomedorepositorio/    (que foi criado no gitgub)
+	3) git status
+	4) Adiciona o arquivo local a pasta clonada
+	5) git add .
+	6) git status
+	7) git commit -m "Comentario"
+	8) git push origin main (usuario github e token)
+
+Commit Feito!! = Dev Feliz!
